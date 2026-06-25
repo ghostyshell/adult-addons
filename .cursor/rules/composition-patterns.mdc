@@ -1,0 +1,7 @@
+---
+description: React composition patterns — compound components, context providers, scalable APIs
+globs: ["src/components/**/*.tsx"]
+alwaysApply: false
+remote: vercel-labs/agent-skills
+skill: composition-patterns
+---

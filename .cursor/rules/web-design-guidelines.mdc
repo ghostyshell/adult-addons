@@ -1,0 +1,7 @@
+---
+description: Vercel web design guidelines — accessibility, UX, and UI quality audits
+globs: ["**/*.tsx"]
+alwaysApply: false
+remote: vercel-labs/agent-skills
+skill: web-design-guidelines
+---

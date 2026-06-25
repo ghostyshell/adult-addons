@@ -1,0 +1,7 @@
+---
+description: Anthropic frontend design skill — distinctive aesthetics, typography, color, spatial composition
+globs: ["**/*.tsx", "**/*.css"]
+alwaysApply: false
+remote: anthropics/skills
+skill: frontend-design
+---

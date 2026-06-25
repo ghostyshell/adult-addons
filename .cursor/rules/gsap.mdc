@@ -1,0 +1,6 @@
+---
+description: GSAP animation best practices and patterns
+globs: ["**/*.tsx", "**/*.ts"]
+alwaysApply: false
+remote: greensock/gsap-skills
+---
